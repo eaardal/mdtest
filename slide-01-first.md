@@ -25,8 +25,10 @@ function foo(bar) {
   return bar;
 }
 ```
-<span id="nerd">
+<div id="nerd">
+
 * List item 1
 * List item 2
 * List item 3
-</span>
+
+</div>
