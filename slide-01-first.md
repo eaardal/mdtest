@@ -26,10 +26,10 @@ function foo(bar) {
 }
 ```
 
-[start]: # (nerdschool-start)
+[](nerdschool-start)
 
 * List item 1
 * List item 2
 * List item 3
 
-[end]: # (nerdschool-end)
+[](nerdschool-end)
