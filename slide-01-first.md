@@ -1,3 +1,5 @@
+[Nerdify](http://localhost:3000/nerdify?markdown=https://github.com/eaardal/mdtest/edit/master/slide-01-first.md)
+
 # First
 
 ### Something else
