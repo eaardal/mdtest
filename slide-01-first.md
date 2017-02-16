@@ -26,10 +26,10 @@ function foo(bar) {
 }
 ```
 
-$nerdstart
+[//]: # nerdschool-start
 
 * List item 1
 * List item 2
 * List item 3
 
-$nerdend
+[//]: # nerdschool-end
